@@ -1,4 +1,12 @@
-.App-header {
+body {
+    background: #f9f8fe
+}
+
+a {
+    color:pink;
+}
+
+.App-header{
     margin: 30px 0;
 }
 
